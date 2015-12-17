@@ -139,7 +139,7 @@ $(document).ready(function(){
 		  scrollingSpeed: 1000,
 		  autoScrolling: true,
 		  sectionsColor : ['#000'],
-		  paddingTop: '0',
+		  paddingTop: '1em',
 		  keyboardScrolling: true,
 	      anchors:['gallery']
 	});
