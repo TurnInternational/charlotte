@@ -141,6 +141,6 @@ $(document).ready(function(){
 		  sectionsColor : ['#000'],
 		  paddingTop: '1em',
 		  keyboardScrolling: true,
-	      anchors:['gallery']
+	      anchors:['content','gallery']
 	});
 });
